@@ -1,4 +1,4 @@
-# 🚗 Desafio de Estágio - Buscador de Carros
+# 🚗 Desafio - Buscador de Carros
 
 Bem-vindo(a) ao nosso desafio técnico! 🎯
 
